@@ -2,6 +2,7 @@ import java.util.Scanner;
 
 public class Calculadora {
     public static void main(String[] args) {
+        //Calculadora
         Scanner leia = new Scanner(System.in);
 
         System.out.println("Digite o primeiro valor: ");

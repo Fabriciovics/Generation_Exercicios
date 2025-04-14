@@ -20,7 +20,7 @@ public class Variaveis {
         // Definição da constante PI
         final double PI = 3.1415;
 
-        // Exibição em tela
+        // Exibição em tela saida
         System.out.printf("Variável numero 1 é igual a: %d\n", numero_01);
         System.out.println("Variável numero 2 é igual a: " + numero_02);
         System.out.printf("Constante PI é igual a: %.2f\n", PI);
