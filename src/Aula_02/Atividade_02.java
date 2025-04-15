@@ -1,4 +1,5 @@
-import java.sql.SQLOutput;
+package Aula_02;
+
 import java.util.Scanner;
 
 public class Atividade_02 {
