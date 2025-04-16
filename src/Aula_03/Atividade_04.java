@@ -20,6 +20,7 @@ public class Atividade_04 {
                 } else if(palavra3.equalsIgnoreCase("Onivoro")){
                     System.out.println("Pomba");
                 }
+            //MAmifero
             }else if(palavra2.equalsIgnoreCase("Mamifero")){
                  if(palavra3.equalsIgnoreCase("Carnivoro")){
                     System.out.println("Vaca");
@@ -38,6 +39,7 @@ public class Atividade_04 {
                 else if(palavra3.equalsIgnoreCase("herbivoro")){
                     System.out.println("Lagarta");
                 }
+                //Anelideo
             } else if(palavra2.equalsIgnoreCase("Anelideo")){
                 if(palavra3.equalsIgnoreCase("Hematofago")){
                     System.out.println("Sanguessuga");
