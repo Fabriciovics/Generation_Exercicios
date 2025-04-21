@@ -8,7 +8,7 @@ Este repositório contém os exercícios desenvolvidos durante o Bootcamp Genera
 
 **Aula_03:**  ATIVIDADE PRÁTICA  – Laços Condicionais.   [Ver Atividade](https://github.com/Fabriciovics/Generation_Exercicios/tree/main/src/Aula_03)
 
-**Aula_04:**  ATIVIDADE PRÁTICA  – Laços de Repetição.  
+**Aula_04:**  ATIVIDADE PRÁTICA  – Laços de Repetição.  [Ver Atividade](https://github.com/Fabriciovics/Generation_Exercicios/tree/main/src/Aula_04)
 
 
 ## Sobre o Bootcamp Generation Brasil
