@@ -12,7 +12,7 @@ Este repositório reúne os exercícios que desenvolvi durante o Bootcamp Genera
 
 ✔️ **Aula 06:** 🔗 [ATIVIDADE PRÁTICA - Collections ](https://github.com/Fabriciovics/Generation_Exercicios/tree/main/src/Aula_06).  
 
-✔️ **Aula 07:** 🔗 [ATIVIDADE PRÁTICA - Collections ](https://github.com/Fabriciovics/Generation_Exercicios/tree/main/src/Aula_07).
+✔️ **Aula 07:** 🔗 [ATIVIDADE PRÁTICA - Estrutura de Dados ](https://github.com/Fabriciovics/Generation_Exercicios/tree/main/src/Aula_07).
 
 ## 🚀 Sobre o Bootcamp Generation Brasil 🇧🇷
 
