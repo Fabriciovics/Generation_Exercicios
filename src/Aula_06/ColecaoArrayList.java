@@ -11,7 +11,6 @@ public class ColecaoArrayList {
         Scanner leia = new Scanner(System.in);
 
         ArrayList<Double> numeros = new ArrayList<>();
-
         numeros.add(2.0);
         numeros.add(5.0);
         numeros.add(8.0);

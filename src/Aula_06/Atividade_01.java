@@ -7,7 +7,6 @@ public class Atividade_01 {
     public static void main(String[] args) {
 
         Scanner leia = new Scanner(System.in);
-
         String cor = "";
         int count = 0;
         ArrayList<String> cores = new ArrayList<>();

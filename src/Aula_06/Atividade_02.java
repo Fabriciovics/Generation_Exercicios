@@ -9,7 +9,6 @@ public class Atividade_02 {
         Scanner leia = new Scanner(System.in);
         int entrada = 0;
         boolean buscador = false;
-
         ArrayList<Integer> inteiros = new ArrayList<>();
 
         inteiros.add(3);

@@ -8,7 +8,6 @@ public class Atividade_03 {
         Scanner leia = new Scanner(System.in);
 
         int numeros = 0;
-
         Set<Integer> inteiros = new HashSet<>();
 
         System.out.println("Digite 10 numeros inteiros: ");
