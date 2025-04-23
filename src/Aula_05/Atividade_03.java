@@ -23,9 +23,7 @@ public class Atividade_03 {
             System.out.print(matriz[indice][indice] + " ");
             somaDiagonalPrincipal += matriz[indice][indice];
         }
-
         System.out.println();
-
         System.out.print("Elementos da Diagonal Secundária: ");
         int somaDiagonalSecundaria = 0;
         for (int indice = 0; indice < matriz.length; indice++) {
