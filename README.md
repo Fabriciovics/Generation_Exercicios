@@ -8,7 +8,9 @@ Este repositório reúne os exercícios que desenvolvi durante o Bootcamp Genera
 
 ✔️ **Aula 04:** 🔗 [ATIVIDADE PRÁTICA – Laços de Repetição](https://github.com/Fabriciovics/Generation_Exercicios/tree/main/src/Aula_04)
 
-✔️ **Aula 05:** 🔗 [ATIVIDADE PRÁTICA - Vetores e Matrizes (Arrays)](https://github.com/Fabriciovics/Generation_Exercicios/tree/main/src/Aula_05)
+✔️ **Aula 05:** 🔗 [ATIVIDADE PRÁTICA - Vetores e Matrizes (Arrays)](https://github.com/Fabriciovics/Generation_Exercicios/tree/main/src/Aula_05)  
+
+✔️ **Aula 06:** 🔗 [ATIVIDADE PRÁTICA - Collections ](https://github.com/Fabriciovics/Generation_Exercicios/tree/main/src/Aula_06).
 
 ## 🚀 Sobre o Bootcamp Generation Brasil 🇧🇷
 
