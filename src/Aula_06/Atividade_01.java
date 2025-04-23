@@ -9,6 +9,7 @@ public class Atividade_01 {
         Scanner leia = new Scanner(System.in);
         String cor = "";
         int count = 0;
+
         ArrayList<String> cores = new ArrayList<>();
 
         for (int indice = 0; indice < 5; indice++) {

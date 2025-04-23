@@ -8,8 +8,10 @@ public class Atividade_04 {
     public static void main(String[] args) {
 
         Scanner leia = new Scanner(System.in);
+
         int numero = 0;
         boolean buscador = false;
+
         Set<Integer> inteiros = new HashSet<Integer>();
 
         inteiros.add(2);

@@ -9,6 +9,7 @@ public class ColecaoSet {
     public static void main(String[] args) {
 
         Set<String> frutas = new HashSet<String>();
+
         frutas.add("Maca");
         frutas.add("Morango");
         frutas.add("Abacate");
