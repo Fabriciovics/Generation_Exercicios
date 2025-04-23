@@ -30,6 +30,7 @@ public class Atividade_02 {
                 System.out.print("Digite o nome: ");
                 leia.skip("\\R");
                 nome = leia.nextLine();
+
                 boolean verificador = livros.add(nome);
                 if (verificador) {
                     System.out.println("Cliente Adiconado!");
